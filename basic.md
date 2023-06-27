@@ -50,6 +50,13 @@
     + `ctrl` + `alt` + click
 
 
+## 建模
++ `e`
+    + 挤出面
+
++ `i`
+    + 内插面
+
 ## view
 + 选择视图
     + `
@@ -63,6 +70,12 @@
     + 微调面板
     + 移动后，左下角
 
+
++ x-ray (右上开关)
+
++ Cavity
+    + 着色方式
+    + viewport shading -> cavity
 
 ## cursor（物体的出生点）
 + (0,0,0)
