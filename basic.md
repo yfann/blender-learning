@@ -78,6 +78,9 @@
     + 着色方式
     + viewport shading -> cavity
 
++ viewport overlays
+    + statistics
+
 ## cursor（物体的出生点）
 + (0,0,0)
     + 默认
