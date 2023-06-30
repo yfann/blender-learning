@@ -1,23 +1,44 @@
 ## basic shortcut
-+ 旋转
-    + `鼠标中键` 
-        + `alt + 旋转` 吸附
-    + 可以设置以物体为中心旋转
-    + `alt + g`
-        + 选中物体，复位
 
-+ 平移
-    + `shift + 中键` 
-    + `alt + r`
-        + 复位
++ 新建
+    + `shift + a`
 
 + 缩放
+    + 选中 + `s`
+        + 右键退出
+        + x/y/z
+            + 沿着轴缩放
     + `滚轮`  
         + `ctrl + 中建 + 上下/左右移动`
     + `alt + s`
         + 复位
 
-<!-- edit -->
++ 旋转
+    + 选中 + `r`
+        + 右键退出
+    + `鼠标中键` 
+        + `alt + 旋转` 吸附
+    + 可以设置以物体为中心旋转
+    + `alt + r`
+        + 选中物体，复位
+    + 顶部Global旁边
+        + 选择轴心点
+
+
++ 抓取移动
+    + `g`
+        + `g` + `x` 在x轴上移动物体
+    + `alt + g`
+        + 复位
+    + ctrl 吸附移动
+
+
++ 隐藏
+    + 选中+`h`
+    + `shift + h` 隐藏没选的
+    + `alt + h` 显示
+
+
 + edit
     + `tab`
 
@@ -25,9 +46,6 @@
     + del
     + x
 
-+ 抓取
-    + `g`
-        + `g` + `x` 在x轴上移动物体
 
 + 复制
     + `shfit + d`
@@ -50,6 +68,12 @@
 + `alt` + click 选择多个边/面(圈选)
     + `ctrl` + `alt` + click
 
+
+## 视图
++ shift + 中键
+    + 移动视图
++ `
++ alt + 中键
 
 ## 建模
 + `e`
@@ -81,6 +105,14 @@
 + viewport overlays
     + statistics
 
+
++ 在鼠标位置放大缩小视图
+    + edit->preferences->Navigation->zoom to Mouse position
+
++ 围绕选择物体旋转
+    + edit->preferences->Navigation->orbit around selection
+
+
 ## cursor（物体的出生点）
 + (0,0,0)
     + 默认
@@ -94,6 +126,16 @@
         + Mesh -> snap -> cursor to selected
 
 
++ `shift + c` 归位
+
++ `shift + s` 
+    + 移动游标到物体
+    + 把选择的物体移到游标
+
++ 顶部菜单（global旁边）
+    + 可以把游标作为旋转点
+
+
 ## Origin （物体的旋转点）
 
 + Object的基准点
@@ -103,3 +145,6 @@
 + 修改Origin到一个vertex
     + curor定位到一个顶点
         + object mode -> 右键 ->set origin -> origin to 3D cursor
+
++ 移动原点
+    + options -> affect only origins
