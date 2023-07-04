@@ -72,9 +72,7 @@
     + `ctrl` + `alt` + click
 
 
-<!-- view -->
-+ 选中+`/`
-    + 选中的物体单独显示
+
 
 ## 视图
 + shift + 中键
@@ -89,35 +87,7 @@
 + `i`
     + 内插面
 
-## view
-+ 选择视图
-    + `
-    + `ctrl + alt + q` 同时显示四个视图/还原
 
-+ sidebar
-     + `n`
-     + 平移，旋转参数
-
-+ move
-    + 微调面板
-    + 移动后，左下角
-
-
-+ x-ray (右上开关)
-
-+ Cavity
-    + 着色方式
-    + viewport shading -> cavity
-
-+ viewport overlays
-    + statistics
-
-
-+ 在鼠标位置放大缩小视图
-    + edit->preferences->Navigation->zoom to Mouse position
-
-+ 围绕选择物体旋转
-    + edit->preferences->Navigation->orbit around selection
 
 
 ## cursor（物体的出生点）
