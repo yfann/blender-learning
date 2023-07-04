@@ -2,6 +2,8 @@
 ## 修改器
 + select -> 右侧扳手图标 -> add modifier
 + `ctrl A` 应用修改器
++ `ctrl 2` 添加 subdivision modifier
+    + 
 
 ## modifiers
 + subdivision
@@ -10,6 +12,10 @@
 
 + solidify
     + 平面加厚度
+
++ simple deform
+    + 变弯
+    + 锥化
 
 + bevel
 
