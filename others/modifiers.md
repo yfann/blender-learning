@@ -22,5 +22,10 @@
 + Boolean
     + 不同物体重叠部分去交集，差集，并集
 
+
+## tips
++ 修改器生效方式从上到下
+    + 顺序影响结果
+
 ## ref
 + [Introduction](https://docs.blender.org/manual/en/3.0/modeling/modifiers/introduction.html#bpy-types-modifier-name)

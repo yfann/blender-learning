@@ -102,8 +102,8 @@
     + Edit mode -> vertex select -> 选中顶点
         + Mesh -> snap -> cursor to selected
 
-
-+ `shift + c` 归位
++ 归位
+    + `shift + c` 
 
 + `shift + s` 
     + 移动游标到物体
@@ -111,6 +111,10 @@
 
 + 顶部菜单（global旁边）
     + 可以把游标作为旋转点
+
+
++ 把物体放到cursor位置(物体origin对齐cursor)
+    + `alt g`
 
 
 ## Origin （物体的旋转点）
@@ -125,5 +129,8 @@
 
 + 移动原点
     + options -> affect only origins
+
++ 给物体设置原点
+    + select obj -> 右键 -> set origin ->到几何中心
 
 
